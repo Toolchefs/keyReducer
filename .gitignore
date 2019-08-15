@@ -1,0 +1,13 @@
+*.sdf
+*.opensdf
+*.pyc
+.project
+.cproject
+x64/
+*.o
+Debug/
+build/
+.project
+.cproject
+*.exe
+*.msi
